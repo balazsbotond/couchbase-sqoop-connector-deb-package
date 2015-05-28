@@ -1,0 +1,9 @@
+Package: couchbase-sqoop-connector
+Version: 0.0.1-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: sqoop_1.4.6-1
+Maintainer: Botond Balazs <balazsbotond@gmail.com>
+Description: CB Connector for sqoop command-line application 1.4.6
+ CB Connectors for Sqoop: couchbase-client, couchbase-hadoop-plugin.
